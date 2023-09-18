@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "645fae490c38087feab22fbd"
+  },
+  "bussCode": "1",
+  "bussKind": "vip",
+  "bussCompany": "iran",
+  "des": "tehran",
+  "origin": "zanjan",
+  "capacity": 10,
+  "price": 100,
+  "date": "10/2",
+  "time": "10:30",
+  "totalCapacity": 10
+},{
+  "_id": {
+    "$oid": "645fbfcd0c38087feab22fbe"
+  },
+  "bussCode": "2",
+  "bussKind": "not vip",
+  "bussCompany": "scania",
+  "des": "yazd",
+  "origin": "tehran",
+  "totalCapacity": 5,
+  "capacity": 0,
+  "price": 150,
+  "date": "10/22",
+  "time": "22:30"
+},{
+  "_id": {
+    "$oid": "645fc0700c38087feab22fbf"
+  },
+  "bussCode": "3",
+  "bussKind": "vip",
+  "bussCompany": "scania",
+  "des": "yazd",
+  "origin": "tehran",
+  "totalCapacity": 30,
+  "capacity": 12,
+  "price": 300,
+  "date": "10/22",
+  "time": "7:10"
+},{
+  "_id": {
+    "$oid": "646793966b10debcbcecbe46"
+  },
+  "bussCode": "5",
+  "bussKind": "normal",
+  "bussCompany": "Benz",
+  "des": "zanjan",
+  "origin": "tehran",
+  "totalCapacity": 20,
+  "capacity": 19,
+  "price": 250,
+  "date": "10/30",
+  "time": "6:30"
+}]

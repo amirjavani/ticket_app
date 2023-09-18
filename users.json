@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "645f9eb50c38087feab22fbc"
+  },
+  "username": "amir",
+  "fullName": "amirmahdi",
+  "password": "123",
+  "address": "tehran",
+  "phoneNum": "09123",
+  "email": "gmail",
+  "tickets": [
+    {
+      "date": "10/22",
+      "chair": 15,
+      "origin": "tehran",
+      "des": "yazd",
+      "time": "7:10",
+      "price": 300,
+      "bussCode": "3",
+      "bussKind": "vip",
+      "bussCompany": "scania"
+    },
+    {
+      "date": "10/22",
+      "chair": 14,
+      "origin": "tehran",
+      "des": "yazd",
+      "time": "7:10",
+      "price": 300,
+      "bussCode": "3",
+      "bussKind": "vip",
+      "bussCompany": "scania"
+    },
+    {
+      "date": "10/22",
+      "chair": 13,
+      "origin": "tehran",
+      "des": "yazd",
+      "time": "7:10",
+      "price": 300,
+      "bussCode": "3",
+      "bussKind": "vip",
+      "bussCompany": "scania"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645fc8c30c38087feab22fc0"
+  },
+  "username": "ali",
+  "fullName": "alireza",
+  "password": "123",
+  "address": "zanjan",
+  "phoneNum": "091212",
+  "email": "alireza@",
+  "tickets": []
+},{
+  "_id": {
+    "$oid": "645fd85d0c38087feab22fc1"
+  },
+  "username": "mamad",
+  "fullName": "Mohammad reza",
+  "password": "123",
+  "address": "Iran yazd",
+  "phoneNum": "1234",
+  "email": "mohamad@",
+  "tickets": []
+},{
+  "_id": {
+    "$oid": "646793cf6b10debcbcecbe47"
+  },
+  "username": "majid",
+  "fullName": "Majid sanaati",
+  "password": "123",
+  "address": "zanjan,ponak",
+  "phoneNum": "0921234123",
+  "email": "majid@",
+  "tickets": [
+    {
+      "date": "10/30",
+      "chair": 20,
+      "origin": "tehran",
+      "des": "zanjan",
+      "time": "6:30",
+      "price": 250,
+      "bussCode": "5",
+      "bussKind": "normal",
+      "bussCompany": "Benz"
+    }
+  ]
+}]
