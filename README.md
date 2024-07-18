@@ -1,5 +1,5 @@
 # Description
-This is a simple application with flutter for buying buss ticket using MongoDB in localhost
+This is a simple application with flutter for buying bus ticket using MongoDB in localhost
 
 
 
